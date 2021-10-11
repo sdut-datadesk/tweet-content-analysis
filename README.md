@@ -1,7 +1,7 @@
 # Twitter content analysis of California gubernatorial candidates’ accounts
 By: [Lauryn Schroeder](https://www.sandiegouniontribune.com/sdut-lauryn-schroeder-staff.html)
 
-This repository contains data and code for the analysis [reported and published](XXXXXX) by *The San Diego Union-Tribune* on Sept. 10, 2021.
+This repository contains data and code for the analysis [reported and published](https://www.sandiegouniontribune.com/news/watchdog/story/2021-09-11/candidate-tweets-tell-their-tales-in-run-up-to-recall-election) by *The San Diego Union-Tribune* on Sept. 10, 2021.
 
 ### About
 
